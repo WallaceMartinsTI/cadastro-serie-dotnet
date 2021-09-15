@@ -1,0 +1,13 @@
+/home/wallacexp159/Área de Trabalho/APP CRUD Series/TOP.Series/obj/Debug/netcoreapp3.1/TOP.Series.csprojAssemblyReference.cache
+/home/wallacexp159/Área de Trabalho/APP CRUD Series/TOP.Series/obj/Debug/netcoreapp3.1/TOP.Series.AssemblyInfoInputs.cache
+/home/wallacexp159/Área de Trabalho/APP CRUD Series/TOP.Series/obj/Debug/netcoreapp3.1/TOP.Series.AssemblyInfo.cs
+/home/wallacexp159/Área de Trabalho/APP CRUD Series/TOP.Series/obj/Debug/netcoreapp3.1/TOP.Series.csproj.CoreCompileInputs.cache
+/home/wallacexp159/Área de Trabalho/APP CRUD Series/TOP.Series/bin/Debug/netcoreapp3.1/TOP.Series
+/home/wallacexp159/Área de Trabalho/APP CRUD Series/TOP.Series/bin/Debug/netcoreapp3.1/TOP.Series.deps.json
+/home/wallacexp159/Área de Trabalho/APP CRUD Series/TOP.Series/bin/Debug/netcoreapp3.1/TOP.Series.runtimeconfig.json
+/home/wallacexp159/Área de Trabalho/APP CRUD Series/TOP.Series/bin/Debug/netcoreapp3.1/TOP.Series.runtimeconfig.dev.json
+/home/wallacexp159/Área de Trabalho/APP CRUD Series/TOP.Series/bin/Debug/netcoreapp3.1/TOP.Series.dll
+/home/wallacexp159/Área de Trabalho/APP CRUD Series/TOP.Series/bin/Debug/netcoreapp3.1/TOP.Series.pdb
+/home/wallacexp159/Área de Trabalho/APP CRUD Series/TOP.Series/obj/Debug/netcoreapp3.1/TOP.Series.dll
+/home/wallacexp159/Área de Trabalho/APP CRUD Series/TOP.Series/obj/Debug/netcoreapp3.1/TOP.Series.pdb
+/home/wallacexp159/Área de Trabalho/APP CRUD Series/TOP.Series/obj/Debug/netcoreapp3.1/TOP.Series.genruntimeconfig.cache
